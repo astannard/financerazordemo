@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "MaxRiskLevel": "0.3",
+    "Name": "Default loan",
+    "Description": "Our standard loan",
+    "Interest": "0.2"
+  },
+  {
+    "Id": 2,
+    "MaxRiskLevel": "0.2",
+    "Name": "Premium Loan",
+    "Description": "Best loan for our lowest risk customers",
+    "Interest": "0.1"
+  }
+
+]

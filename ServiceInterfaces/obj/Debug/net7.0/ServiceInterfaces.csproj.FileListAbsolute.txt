@@ -1,0 +1,12 @@
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/bin/Debug/net7.0/ServiceInterfaces.deps.json
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/bin/Debug/net7.0/ServiceInterfaces.dll
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/bin/Debug/net7.0/ServiceInterfaces.pdb
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ServiceInterfaces.csproj.AssemblyReference.cache
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ServiceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ServiceInterfaces.AssemblyInfoInputs.cache
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ServiceInterfaces.AssemblyInfo.cs
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ServiceInterfaces.csproj.CoreCompileInputs.cache
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ServiceInterfaces.dll
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/refint/ServiceInterfaces.dll
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ServiceInterfaces.pdb
+/Users/andy/Projects/FinanceDemo/ServiceInterfaces/obj/Debug/net7.0/ref/ServiceInterfaces.dll

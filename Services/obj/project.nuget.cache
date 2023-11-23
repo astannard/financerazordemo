@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnbuSP0zM1hgoX7cJCOSt2LOvGcgiQEebeIzclU3mgHKpBy2rAmn+jKScU+kY8RXaiDrra/B/3Vp//S+1CFYzg==",
+  "success": true,
+  "projectFilePath": "/Users/andy/Projects/FinanceDemo/Services/Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/andy/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

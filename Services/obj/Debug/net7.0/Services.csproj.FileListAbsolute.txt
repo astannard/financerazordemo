@@ -1,0 +1,15 @@
+/Users/andy/Projects/FinanceDemo/Services/bin/Debug/net7.0/Services.deps.json
+/Users/andy/Projects/FinanceDemo/Services/bin/Debug/net7.0/Services.dll
+/Users/andy/Projects/FinanceDemo/Services/bin/Debug/net7.0/Services.pdb
+/Users/andy/Projects/FinanceDemo/Services/bin/Debug/net7.0/ServiceInterfaces.dll
+/Users/andy/Projects/FinanceDemo/Services/bin/Debug/net7.0/ServiceInterfaces.pdb
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.dll
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/Services.pdb
+/Users/andy/Projects/FinanceDemo/Services/obj/Debug/net7.0/ref/Services.dll

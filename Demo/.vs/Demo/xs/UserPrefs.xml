@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8B9111A3-ABB7-4662-958D-BD7092DEADCC}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../API/appsettings.json">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Models/IndexModel.cs" Line="18" Column="27" />
+      <File FileName="Pages/Index.cshtml.cs" Line="6" Column="14" />
+      <File FileName="../Services/users.json" Line="1" Column="1" />
+      <File FileName="../Services/UserService.cs" Line="11" Column="42" />
+      <File FileName="Pages/Index.cshtml" Line="2" Column="14" />
+      <File FileName="../API/Program.cs" Line="1" Column="1" />
+      <File FileName="../API/Controllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="../API/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo" expanded="True">
+            <Node name="API" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Demo PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DemoApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

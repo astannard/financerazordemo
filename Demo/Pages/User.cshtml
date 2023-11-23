@@ -1,0 +1,14 @@
+﻿@page
+@model Demo.Pages.UserModel
+@{
+}
+
+<div class="text-center">
+    <h1 class="display-4">Star User</h1>
+    <h4>Introducing todays star user is:</h4>
+    <div class="white-box shadow-5">
+
+        <h2>@this.Model.User.name.first  @this.Model.User.name.last</h2>
+        <img src="@this.Model.User.picture.large" class="profilepic" />
+    </div>
+</div>

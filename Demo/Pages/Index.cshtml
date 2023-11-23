@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Please fill out the following details and submit the form to apply:</p>
+    <form method="post" class="shadow-5">
+
+        <label for="Name">Name:</label><br>
+        <input asp-for="Name" type="text" id="Name" name="Name"><br>
+        <span asp-validation-for="Name" class="text-danger"></span><br>
+
+        <label for="Email">Email:</label><br>
+        <input asp-for="Email" type="email" id="Email" name="Email"><br>
+        <span asp-validation-for="Email" class="text-danger"></span><br>
+
+        <label for="Income">Income:</label><br>
+        <input asp-for="Income" type="number" id="Income" name="Income"><br>
+        <span asp-validation-for="Income" class="text-danger"></span><br>
+
+
+        <label for="RequestedLoan">Requested loan ammount:</label><br>
+        <input asp-for="RequestedLoan" type="number" id="RequestedLoan" name="RequestedLoan"><br>
+        <span asp-validation-for="RequestedLoan" class="text-danger"></span><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</div>

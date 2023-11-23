@@ -1,0 +1,20 @@
+[
+    {
+        "Id":1,
+        "Name": "User 1",
+        "EmailAddress": "user1@example.com",
+        "Income": 50000.00
+    },
+    {
+        "Id":2,
+        "Name": "User 2",
+        "EmailAddress": "user2@example.com",
+        "Income": 60000.00
+    },
+    {
+        "Id":3,
+        "Name": "User 3",
+        "EmailAddress": "user3@example.com",
+        "Income": 50000.00
+    }
+]

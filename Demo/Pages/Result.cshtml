@@ -1,0 +1,15 @@
+﻿@page
+@model Demo.Pages.ResultModel
+@{
+}
+
+<div class="text-center">
+    <h1 class="display-4">Congratulations</h1>
+    <p>we are delighted to be able to ofer you the following loan:</p>
+    <div class="white-box shadow-5">
+
+        <h2>@{ @this.Model.Name}</h2>
+        <p>@{ @this.Model.InterestText}</p>
+        <p>@{ @this.Model.Description}</p>
+    </div>
+</div>
